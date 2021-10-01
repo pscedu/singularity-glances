@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-glances)
 
 # singularity-glances
+<img src="https://nicolargo.github.io/glances/public/images/screenshot-wide.png" />
+
 Singularity recipe for [glances](https://nicolargo.github.io/glances/).
 
 ## Installing the container on Bridges 2
