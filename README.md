@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-glances)
 
 # singularity-glances
-<img src="https://nicolargo.github.io/glances/public/images/screenshot-wide.png" />
+<img src="https://nicolargo.github.io/glances/public/images/screenshot-wide.png" width="50%" />
 
 Singularity recipe for [glances](https://nicolargo.github.io/glances/).
 
